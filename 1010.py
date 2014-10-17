@@ -58,3 +58,5 @@ B = quickSort(A)
 print count,"Call!"
 for i in range(0,len(B)):
  	print B[i]
+
+ 	
